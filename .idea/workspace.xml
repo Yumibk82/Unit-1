@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bedeab5-a012-4c6f-b20b-416f6d10b442" name="Default Changelist" comment="" />
+    <list default="true" id="0bedeab5-a012-4c6f-b20b-416f6d10b442" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iRvcyAWT5Vlfuk0aas7oqodEiv" />
   <component name="ProjectViewState">
@@ -39,7 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601883304015</updated>
       <workItem from="1601883305688" duration="3672000" />
-      <workItem from="1601887927745" duration="730000" />
+      <workItem from="1601887927745" duration="1985000" />
+      <workItem from="1601933627077" duration="656000" />
     </task>
     <servers />
   </component>
@@ -47,13 +53,24 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1601885017235">
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1601889036083">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601885017235" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601889036083" />
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1601883765557">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1601883765557" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/login.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
