@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bedeab5-a012-4c6f-b20b-416f6d10b442" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customer_list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai 1_loc customer list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai 2_content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai 2_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai 2_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai 2_nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai 2_index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/customer_list.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
       <updated>1601883304015</updated>
       <workItem from="1601883305688" duration="3672000" />
       <workItem from="1601887927745" duration="1985000" />
-      <workItem from="1601933627077" duration="6267000" />
+      <workItem from="1601933627077" duration="20181000" />
     </task>
     <servers />
   </component>
@@ -55,10 +60,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1601938741278">
+    <state x="1021" y="607" width="399" height="156" key="NewPhpFileDialog" timestamp="1601967604231">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601938741278" />
+    <state x="1021" y="607" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601967604231" />
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1601883765557">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
