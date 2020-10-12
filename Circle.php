@@ -1,22 +1,49 @@
 <?php
 
-class Circle extends Shape
+
+class Circle
 {
     public $radius;
+    public $color;
 
-    public function __construct($name, $radius)
+    public function __construct($radius, $color)
     {
-        parent::__construct($name);
         $this->radius = $radius;
+        $this->color = $color;
+    }
+
+    public function __toString()
+    {
+        return "return phuong thuc toString";
+    }
+
+    public function getRadius()
+    {
+        return $this->radius;
+    }
+
+    public function getColor()
+    {
+        return $this->color;
+    }
+
+    public function setRadius($radius)
+    {
+        $this->radius = $radius;
+    }
+
+    public function setColor($color)
+    {
+        $this->color = $color;
     }
 
     public function calArea()
     {
-        return pi()*pow($this->radius,2);
+        return pi() * $this->radius * $this->radius;
     }
 
-    public function calPerimeter()
+    public function CalPerimeter()
     {
-        return pi()*$this->radius*2;
+        return $this->radius * pi() * 2;
     }
 }
